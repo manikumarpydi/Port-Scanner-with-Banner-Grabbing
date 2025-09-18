@@ -1,5 +1,4 @@
 
-```markdown
 # Port Scanner with Banner Grabbing (Streamlit)
 
 ## Description
@@ -45,4 +44,3 @@ Use this tool responsibly—only scan machines and networks where you have permi
 ## License
 
  MIT License
-```
